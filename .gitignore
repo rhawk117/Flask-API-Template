@@ -1,0 +1,7 @@
+backend/.env
+backend/__pycache__/
+backend/.venv
+backend/instance
+__pycache__/
+*.py[cod]
+*$py.class
